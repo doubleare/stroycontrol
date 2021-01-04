@@ -12,6 +12,11 @@
 @import './delivery.css';
 @import './safety.css';
 @import './features.css';
+@import './work.css';
+@import './benefits.css';
+
+
+@import './vendors/slick.css';
 
 * {
   padding: 0;
