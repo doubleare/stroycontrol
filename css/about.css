@@ -26,3 +26,15 @@
   line-height: 24px;
   color: var(--color-gray);
 }
+@media screen and (max-width: 567px)  {
+  .about__img {
+  
+  }
+  .about__item {
+    text-align: left;
+  }
+  .about__item img{
+    margin-top: 20px;
+    width: 100%;
+  }
+}

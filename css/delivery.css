@@ -41,3 +41,8 @@
   line-height: 32px;
   color: var(--color-gray);
 }
+@media screen and (max-width: 567px) {
+  .delivery__footer {
+    flex-direction: column;
+  }
+}

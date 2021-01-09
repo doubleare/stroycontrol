@@ -71,3 +71,17 @@
     background-color: var(--color-gray);
     color: var(--color-white);
 }
+@media screen and (max-width: 567px) {
+    .safety__col {
+        width: 100%;
+    }
+    .safety__footer {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }  
+    .safety__detail {
+        padding: 0;
+        margin: 20px 0;
+    }
+}

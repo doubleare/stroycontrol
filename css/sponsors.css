@@ -11,3 +11,13 @@
   list-style: none;
   width: 20%;
 }
+@media screen and (max-width: 567px) {
+  .sponsors__list {
+    flex-direction: column;
+    
+  }
+  .sponsors__item {
+    width: 100%;
+    text-align: center;
+  }
+}
