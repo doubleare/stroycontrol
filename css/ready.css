@@ -1,0 +1,19 @@
+.ready__contai {
+    padding: 117px 38px;
+    text-align: center;
+    background: url(../images/ready.png) no-repeat;
+    background-size: cover;
+}
+.ready__title {
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 64px;
+    color: #212B31;
+    margin-bottom: 54px;
+}
+.ready__btns {
+    justify-content: center;
+}
+.ready__btn {
+    margin-right: 16px;
+}

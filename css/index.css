@@ -14,6 +14,9 @@
 @import './features.css';
 @import './work.css';
 @import './benefits.css';
+@import './startup.css';
+@import './ready.css';
+@import './footer.css';
 
 
 @import './vendors/slick.css';

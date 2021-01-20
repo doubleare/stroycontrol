@@ -65,7 +65,9 @@
 .text-right {
   text-align: right;
 }
-
+ul {
+  list-style: none;
+}
 .text-center {
   text-align: center;
 }
